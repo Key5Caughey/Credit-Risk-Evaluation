@@ -18,11 +18,11 @@ Read data from a csv file into a Pandas DataFrame. Split data into training and 
   - recall    (0), 0.99 / (1), 0.91
 
 
-## Summary ##
+## Summary 
  The model gave a really precision on the healthy loans but when it came to the unhealthy loans it was better at dealing with the false negatives than the false positives. As is the model is doing well, however the client might want a better  precision or a better recall. Then, if thats the case the client would have to tell you to adjust your model to meet their objectives. Overall , being that the model only had %3.2 of unhealthy loan data to work with, it did an amazing job.
 
-# Libraries/Modules Used
+### Libraries/Modules Used
 numpy, pandas, pathlib,sklearn.metrics, confusion matrix, classification report
 
-# Resources
+### Resources
  
