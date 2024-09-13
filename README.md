@@ -4,7 +4,16 @@
 ## BACKGROUND
 Used various techniques to train and evaluate a model based on loan risk. Used a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
-## Tools and Techniques
+## Tools and Techniques Used
+**Phython, Pandas, NumPy, Sklearn, Matplotlib, Jupyter Notebook**
+- Data Preprocessing, Data Splitting
+- Model Selection and Training, Random Forest, K-Nearest Neighbors
+- Model Evaluation, Accuracy, Precision and Recall, F1 Score, Confusion Matrix
+- Hyperparameter Tuning
+
+  ![logistic_regression_class](https://github.com/user-attachments/assets/ba802716-e860-4ef9-a0e6-d007e17a1016)
+
+
 
 ### Train and evaluate a model based on loan risk,using historical lending activity that can identify the crediworthiness of borrowers ###
 
