@@ -11,7 +11,7 @@ Used various techniques to train and evaluate a model based on loan risk. Used a
 - Model Evaluation, Accuracy, Precision and Recall, F1 Score, Confusion Matrix
 - Hyperparameter Tuning
 
-  ![logistic_regression_class](https://github.com/user-attachments/assets/ba802716-e860-4ef9-a0e6-d007e17a1016)
+<img width="745" alt="logistic_2" src="https://github.com/user-attachments/assets/74b5bd13-261e-47eb-bf6c-d482d0165485">
 
 
 
